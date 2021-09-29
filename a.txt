@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-no you suck
 
-da da ya
->>>>>>> new_branch
+123123
