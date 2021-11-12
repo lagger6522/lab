@@ -1,0 +1,14 @@
+D:\Lab4OOP\Lab4OOP\bin\Debug\Lab4OOP.exe.config
+D:\Lab4OOP\Lab4OOP\bin\Debug\Lab4OOP.exe
+D:\Lab4OOP\Lab4OOP\bin\Debug\Lab4OOP.pdb
+D:\Lab4OOP\Lab4OOP\obj\Debug\Lab4OOP.csprojAssemblyReference.cache
+D:\Lab4OOP\Lab4OOP\obj\Debug\Lab4OOP.csproj.CoreCompileInputs.cache
+D:\Lab4OOP\Lab4OOP\obj\Debug\Lab4OOP.exe
+D:\Lab4OOP\Lab4OOP\obj\Debug\Lab4OOP.pdb
+C:\Users\USER\source\repos\Lab4OOP\Lab4OOP\bin\Debug\Lab4OOP.exe.config
+C:\Users\USER\source\repos\Lab4OOP\Lab4OOP\bin\Debug\Lab4OOP.exe
+C:\Users\USER\source\repos\Lab4OOP\Lab4OOP\bin\Debug\Lab4OOP.pdb
+C:\Users\USER\source\repos\Lab4OOP\Lab4OOP\obj\Debug\Lab4OOP.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Lab4OOP\Lab4OOP\obj\Debug\Lab4OOP.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lab4OOP\Lab4OOP\obj\Debug\Lab4OOP.exe
+C:\Users\USER\source\repos\Lab4OOP\Lab4OOP\obj\Debug\Lab4OOP.pdb
