@@ -1,0 +1,14 @@
+D:\Lab5OOP\Lab5OOP\bin\Debug\Lab5OOP.exe.config
+D:\Lab5OOP\Lab5OOP\bin\Debug\Lab5OOP.exe
+D:\Lab5OOP\Lab5OOP\bin\Debug\Lab5OOP.pdb
+D:\Lab5OOP\Lab5OOP\obj\Debug\Lab5OOP.csprojAssemblyReference.cache
+D:\Lab5OOP\Lab5OOP\obj\Debug\Lab5OOP.csproj.CoreCompileInputs.cache
+D:\Lab5OOP\Lab5OOP\obj\Debug\Lab5OOP.exe
+D:\Lab5OOP\Lab5OOP\obj\Debug\Lab5OOP.pdb
+C:\Users\USER\source\repos\Lab5OOP\Lab5OOP\Lab5OOP\bin\Debug\Lab5OOP.exe.config
+C:\Users\USER\source\repos\Lab5OOP\Lab5OOP\Lab5OOP\bin\Debug\Lab5OOP.exe
+C:\Users\USER\source\repos\Lab5OOP\Lab5OOP\Lab5OOP\bin\Debug\Lab5OOP.pdb
+C:\Users\USER\source\repos\Lab5OOP\Lab5OOP\Lab5OOP\obj\Debug\Lab5OOP.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Lab5OOP\Lab5OOP\Lab5OOP\obj\Debug\Lab5OOP.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lab5OOP\Lab5OOP\Lab5OOP\obj\Debug\Lab5OOP.exe
+C:\Users\USER\source\repos\Lab5OOP\Lab5OOP\Lab5OOP\obj\Debug\Lab5OOP.pdb
