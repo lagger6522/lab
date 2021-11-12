@@ -1,0 +1,14 @@
+D:\Lab3OOP\Lab3OOP\bin\Debug\Lab3OOP.exe.config
+D:\Lab3OOP\Lab3OOP\bin\Debug\Lab3OOP.exe
+D:\Lab3OOP\Lab3OOP\bin\Debug\Lab3OOP.pdb
+D:\Lab3OOP\Lab3OOP\obj\Debug\Lab3OOP.csprojAssemblyReference.cache
+D:\Lab3OOP\Lab3OOP\obj\Debug\Lab3OOP.csproj.CoreCompileInputs.cache
+D:\Lab3OOP\Lab3OOP\obj\Debug\Lab3OOP.exe
+D:\Lab3OOP\Lab3OOP\obj\Debug\Lab3OOP.pdb
+C:\Users\USER\source\repos\Lab3OOP\Lab3OOP\Lab3OOP\bin\Debug\Lab3OOP.exe.config
+C:\Users\USER\source\repos\Lab3OOP\Lab3OOP\Lab3OOP\bin\Debug\Lab3OOP.exe
+C:\Users\USER\source\repos\Lab3OOP\Lab3OOP\Lab3OOP\bin\Debug\Lab3OOP.pdb
+C:\Users\USER\source\repos\Lab3OOP\Lab3OOP\Lab3OOP\obj\Debug\Lab3OOP.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Lab3OOP\Lab3OOP\Lab3OOP\obj\Debug\Lab3OOP.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lab3OOP\Lab3OOP\Lab3OOP\obj\Debug\Lab3OOP.exe
+C:\Users\USER\source\repos\Lab3OOP\Lab3OOP\Lab3OOP\obj\Debug\Lab3OOP.pdb
