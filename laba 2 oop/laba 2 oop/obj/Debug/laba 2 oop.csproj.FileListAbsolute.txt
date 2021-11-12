@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\laba 2 oop\laba 2 oop\bin\Debug\laba 2 oop.exe.config
+C:\Users\USER\source\repos\laba 2 oop\laba 2 oop\bin\Debug\laba 2 oop.exe
+C:\Users\USER\source\repos\laba 2 oop\laba 2 oop\bin\Debug\laba 2 oop.pdb
+C:\Users\USER\source\repos\laba 2 oop\laba 2 oop\obj\Debug\laba 2 oop.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\laba 2 oop\laba 2 oop\obj\Debug\laba 2 oop.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\laba 2 oop\laba 2 oop\obj\Debug\laba 2 oop.exe
+C:\Users\USER\source\repos\laba 2 oop\laba 2 oop\obj\Debug\laba 2 oop.pdb
